@@ -5,10 +5,10 @@ from pymysql.constants import CLIENT
 # Database connection configuration
 db_config = {
     "host": "localhost",
-    "port": 3310,
+    "port": asd,
     "user": "root",
-    "password": "brin",
-    "database": "transactions_db",
+    "password": "asd",
+    "database": "asd",
     "client_flag": CLIENT.LOCAL_FILES,
     "connect_timeout": 60,
     "read_timeout": 60 * 60,  # 1 hour
