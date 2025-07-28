@@ -1,0 +1,7 @@
+pandas
+matplotlib
+folium
+transformers
+torch
+mysql-connector-python
+scikit-learn
