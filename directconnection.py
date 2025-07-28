@@ -8,7 +8,7 @@ import time
 # NocoDB Configuration
 BASE_URL = "http://localhost:8080/api/v1/db/data/v1"
 PROJECT_ID = "pfbsbp2pue608o4"
-API_KEY = "F-WPTjLCNePHVHsycF9UICDvtcpNTFOkOdR3da8b"
+API_KEY = "
 TABLE_NAME = "mihud821ug40jns"
 HEADERS = {"xc-token": API_KEY}
 
