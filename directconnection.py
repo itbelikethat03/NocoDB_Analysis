@@ -12,14 +12,7 @@ API_KEY = "F-WPTjLCNePHVHsycF9UICDvtcpNTFOkOdR3da8b"
 TABLE_NAME = "mihud821ug40jns"
 HEADERS = {"xc-token": API_KEY}
 
-# MySQL Configuration
-DB_CONFIG = {
-    'host': 'localhost',
-    'port': 3310,
-    'user': 'root',
-    'password': 'brin',
-    'database': 'yelp_dataset'
-}
+
 
 
 def fetch_from_nocodb(limit=1000, max_records=1000000):
